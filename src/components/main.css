@@ -1,0 +1,437 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,700&family=Poppins:wght@600&display=swap');
+
+.req {
+    position: absolute;
+    width: 422px;
+    height: 43px;
+    left: 394px;
+    top: 60px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 43px;
+    letter-spacing: -0.02em;
+    color: #72AA83;
+}
+
+.box1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 920px;
+    height: 170px;
+    left: 402px;
+    top: 140px;
+    background: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.25);
+}
+
+/* line 1 css */
+
+.LineOneName {
+    position: absolute;
+    width: 217px;
+    height: 35px;
+    left: 40px;
+    top: 40px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 35px;
+    letter-spacing: -0.015em;
+
+    color: #48AF78;
+}
+
+.LineOneTitle {
+    position: absolute;
+    width: 142px;
+    height: 20px;
+    left: 40px;
+    top: 80px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1px;
+    letter-spacing: -0.005em;
+
+    color: #959595;
+}
+
+.bdr {
+    position: absolute;
+    width: 55.41px;
+    height: 251.84px;
+    left: 400px;
+    top: -58px;
+    border-top: 1.3193px solid rgba(0, 0, 0, 0.3);
+    border-bottom: 1.3193px solid rgba(0, 0, 0, 0.3);
+    transform: rotate(90deg);
+
+}
+
+.day {
+    position: absolute;
+    width: 131px;
+    height: 34px;
+    left: 370px;
+    top: 40px;
+
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26.9429px;
+    line-height: 34px;
+    word-spacing: 15px;
+    letter-spacing: -0.02em;
+
+    color: #48AF78;
+}
+
+.month {
+    position: absolute;
+    width: 131px;
+    height: 34px;
+    left: 370px;
+    top: 70px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    word-spacing: 30px;
+    letter-spacing: -0.005em;
+    color: #959595;
+}
+
+.roomno {
+    position: absolute;
+    width: 127px;
+    height: 36px;
+    left: 600px;
+    top: 40px;
+
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 36px;
+    letter-spacing: -0.02em;
+    color: #48AF78;
+}
+
+.etc {
+    position: absolute;
+    width: 168px;
+    height: 21px;
+    left: 600px;
+    top: 70px;
+
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.005em;
+    color: #959595;
+}
+
+/* line 2 css */
+
+.linetwo {
+    box-sizing: border-box;
+    position: absolute;
+    width: 870px;
+    height: 40px;
+    left: 15px;
+    top: 120px;
+    border: 1px solid #959595;
+    border-radius: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.barone {
+    box-sizing: border-box;
+    position: absolute;
+    width: 330px;
+    height: 39px;
+    display: flex;
+    align-items: center;
+    color: #959595;
+    font-family: sans-serif;
+    line-height: 20px;
+    letter-spacing: -0.07em;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    padding-left: 15px;
+    background: #FDF307;
+    border: 1px solid #FDF307;
+    border-radius: 24px 0px 0px 24px;
+}
+
+.bartwo {
+    position: absolute;
+    width: 97px;
+    height: 19px;
+    left: 390px;
+    top: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 19px;
+    letter-spacing: -0.07em;
+
+    color: #959595;
+}
+
+.line {
+    position: absolute;
+    width: 38px;
+    height: 0px;
+    left: 530px;
+    top: 18px;
+
+    border: 1px solid #959595;
+    transform: rotate(90deg);
+}
+
+.barthree {
+    position: absolute;
+    width: 97px;
+    height: 19px;
+    left: 660px;
+    top: 13px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 19px;
+    letter-spacing: -0.07em;
+    color: #959595;
+}
+
+
+/* sec box css */
+.box2 {
+    position: absolute;
+    width: 920px;
+    height: 380px;
+    left: 396px;
+    top: 350px;
+
+    background: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 54px;
+}
+
+.complete {
+    position: absolute;
+    width: 600px;
+    height: 37px;
+    left: 40px;
+    top: 110px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 19px;
+    letter-spacing: -0.07em;
+    color: #FFFFFF;
+    background: #44A16F;
+    border-radius: 24px;
+}
+
+.cards {
+    position: absolute;
+    width: 230px;
+    height: 185px;
+    left: 40px;
+    top: 170px;
+    background: #F5F4F4;
+    border: 1px solid rgba(0, 0, 0, 0.18);
+    border-radius: 10px;
+
+}
+
+.logoH {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logocard {
+    margin-top: 10px;
+}
+
+.logoText {
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: -1px;
+    /* line-height: 29px; */
+    letter-spacing: -0.01em;
+    color: #85C371;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.down {
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 230px;
+    height: 80px;
+    /* left: 10px; */
+    top: 105px;
+    background: #EEEEEE;
+    border: 1px solid rgba(0, 0, 0, 0.18);
+    box-shadow: 0px -2px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+
+}
+
+.calculate {
+    position: absolute;
+    width: 212px;
+    height: 21px;
+    left: 10px;
+    top: -10px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.07em;
+
+    color: #959595;
+}
+
+.money {
+    position: absolute;
+    width: 84px;
+    height: 23px;
+    left: 10px;
+    top: 32px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 23px;
+    /* identical to box height */
+
+    letter-spacing: -0.07em;
+
+    color: #959595;
+
+}
+
+.btn {
+    position: absolute;
+    width: 110px;
+    height: 35px;
+    left: 100px;
+    top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+    font-size: 15px;
+    font-family: 'lato' sans-serif;
+    cursor: pointer;
+
+    background: #44A16F;
+    border-radius: 10px;
+}
+
+.end {
+    margin: 0 100px;
+}
+
+.posi1 {
+    position: absolute;
+    top: 0;
+
+}
+
+.posi2 {
+    position: absolute;
+    top: 0;
+    left: 32%
+}
+
+.posi3 {
+    position: absolute;
+    top: 0;
+    left: 64%;
+}
+
+.tag {
+
+    position: absolute;
+    width: 100px;
+    height: 35px;
+    left: 215px;
+    top: 150px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11.3512px;
+    line-height: 20px;
+    letter-spacing: -0.01em;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #D96A6B;
+    border-radius: 10px;
+}
+
+/* message css */
+.txtbox {
+    box-sizing: border-box;
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    right: 50px;
+    bottom: 20px;
+    background: #44A16F;
+    border-radius: 50%;
+    border: 1px solid #69AC80;
+}
+
+.one {
+    position: absolute;
+    left: 20%;
+    top: 25%;
+}
+
+.adjust {
+    width: 55px;
+}
+.adjustTwo{
+    width: 75px;
+}
+
+.two {
+    position: absolute;
+    left: 20%;
+    top: 20%;
+}
