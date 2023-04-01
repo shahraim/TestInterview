@@ -19,9 +19,6 @@ export default function Box(props) {
                 <span className='line'></span>
                 <div className='barthree'>COMPLETED</div>
             </div>
-
-            {/* <Firstline/>
-            <Secline/> */}
         </div>
     )
 }

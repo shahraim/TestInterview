@@ -4,13 +4,13 @@ import Box2 from './Box2/Box2'
 import Mess from './Mess'
 import Req from './Req'
 
-export default function main() {
+export default function Main() {
     return (
         <>
-            <Req request={"You currently have 3 requests"}/>
-            <Box/>
-            <Box2/>
-            <Mess/>
+            <Req request={"You currently have 3 requests"} />
+            <Box />
+            <Box2 />
+            <Mess />
         </>
     )
 }

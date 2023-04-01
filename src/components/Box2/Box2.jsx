@@ -17,7 +17,6 @@ export default function Box2(props) {
         <div className='posi1'><Card /><div className='tag'>Rare Find</div></div>
         <div className='posi2'><Card /></div>
         <div className='posi3'><Card /></div>
-        
     </div>
   )
-}sdad
+}
