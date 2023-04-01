@@ -5,7 +5,7 @@ export default function Card() {
   return (
     <div className='cards'>
       <div className='logoH'>
-        <img className='logocard' src={imgdad} alt="image" />
+        <img className='logocard' src={imgdad} alt="imagadade" />
       </div>
       <p className='logoText'>Holiday inn</p>
       <div className='down'>
