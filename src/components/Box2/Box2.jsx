@@ -1,5 +1,5 @@
 import React from 'react'
-import Card from './Card'
+import Card from './Card.jsx'
 
 export default function Box2(props) {
   return (
@@ -14,9 +14,9 @@ export default function Box2(props) {
       <div className='roomno'>20 Rooms </div>
       <div className='etc'>10 Singles, 10 doubles</div>
       <div className='complete'>COMPLETED</div>
-        <div className='posi1'><Card /><div className='tag'>Rare Find</div></div>
-        <div className='posi2'><Card /></div>
-        <div className='posi3'><Card /></div>
+      <div className='posi1'><Card /><div className='tag'>Rare Find</div></div>
+      <div className='posi2'><Card /></div>
+      <div className='posi3'><Card /></div>
     </div>
   )
 }
